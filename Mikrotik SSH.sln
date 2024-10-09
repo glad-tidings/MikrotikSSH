@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mikrotik SSH", "Mikrotik SSH\Mikrotik SSH.vbproj", "{031609F6-D6E1-4883-966C-4B9A8FC6528C}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Mikrotik SSH 2", "Mikrotik SSH 2\Mikrotik SSH 2.vbproj", "{8B491E48-BBEE-48A7-A00A-A3A6EA2B9627}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mikrotik SSH 3", "Mikrotik SSH 3\Mikrotik SSH 3.csproj", "{CBDCC7E8-C6A4-4EF0-9520-89A517667C2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{031609F6-D6E1-4883-966C-4B9A8FC6528C}.Debug|x86.ActiveCfg = Debug|x86
+		{031609F6-D6E1-4883-966C-4B9A8FC6528C}.Debug|x86.Build.0 = Debug|x86
+		{031609F6-D6E1-4883-966C-4B9A8FC6528C}.Release|x86.ActiveCfg = Release|x86
+		{031609F6-D6E1-4883-966C-4B9A8FC6528C}.Release|x86.Build.0 = Release|x86
+		{8B491E48-BBEE-48A7-A00A-A3A6EA2B9627}.Debug|x86.ActiveCfg = Debug|x86
+		{8B491E48-BBEE-48A7-A00A-A3A6EA2B9627}.Debug|x86.Build.0 = Debug|x86
+		{8B491E48-BBEE-48A7-A00A-A3A6EA2B9627}.Release|x86.ActiveCfg = Release|x86
+		{8B491E48-BBEE-48A7-A00A-A3A6EA2B9627}.Release|x86.Build.0 = Release|x86
+		{CBDCC7E8-C6A4-4EF0-9520-89A517667C2B}.Debug|x86.ActiveCfg = Debug|x86
+		{CBDCC7E8-C6A4-4EF0-9520-89A517667C2B}.Debug|x86.Build.0 = Debug|x86
+		{CBDCC7E8-C6A4-4EF0-9520-89A517667C2B}.Release|x86.ActiveCfg = Release|x86
+		{CBDCC7E8-C6A4-4EF0-9520-89A517667C2B}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
